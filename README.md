@@ -1,4 +1,4 @@
-# E-Shop
+# E-Jobs
 Projeto de WebSite voltado a Contratação facilitada de Serviços (E-Jobs)
 
   Justificativa:
